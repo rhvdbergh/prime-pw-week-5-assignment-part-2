@@ -1,0 +1,17 @@
+header {
+  background-color: #a4031f;
+  color: #db9065;
+}
+
+main {
+  background-color: LightGray;
+}
+
+body {
+  background-image: url("./record.png");
+  background-repeat: repeat;
+}
+
+ul {
+  background-color: whitesmoke;
+}
