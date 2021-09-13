@@ -1,10 +1,10 @@
-header {
+.header {
   background-color: #a4031f;
   color: #db9065;
   text-align: center;
 }
 
-main {
+.main {
   background-color: LightGray;
   padding: 1em;
 }
@@ -15,12 +15,15 @@ body {
   background-repeat: repeat;
 }
 
-ul {
+.questions_ul {
   background-color: whitesmoke;
   padding: 1em;
   font-size: 1.25em;
 }
 
-li {
+.questions_li {
+  /* This would probably be easier as a simple li {} instead of a class,
+  but I'm sticking with the stretch goal requirement. Could also be
+  .questions_ul li {}*/
   margin: 1em;
 }
