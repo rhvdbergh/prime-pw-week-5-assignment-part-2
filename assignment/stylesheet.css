@@ -5,9 +5,11 @@ header {
 
 main {
   background-color: LightGray;
+  padding: 1em;
 }
 
 body {
+  margin: 0;
   background-image: url("./record.png");
   background-repeat: repeat;
 }
